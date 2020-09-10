@@ -6,7 +6,7 @@
 #include "CTurtle.hpp";   //This brings in the CTurtle library for use
 namespace ct = cturtle;  //This makes it possible to use the CTurtle commands using ct::
 #include <iostream> //for input & output
-using namespace std; //this makes it possible to use cin and cout without std:
+using namespace std; //this makes it possible to use cin and cout without std::
 
 
 int main() {
