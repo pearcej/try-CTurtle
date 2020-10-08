@@ -6,7 +6,7 @@
 
 ## Use C-turtle to create something!
 
-### Starter files are prvided!
+### Starter files are provided!
 
 ## References:
 - This repo uses [C-Turtle](https://github.com/walkerje/C-Turtle) by Jesse W. Walker
